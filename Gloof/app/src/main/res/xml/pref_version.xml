@@ -1,0 +1,10 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <Preference
+        android:title="@string/Version"
+        android:summary="@string/version_number">
+
+    </Preference>
+
+</PreferenceScreen>

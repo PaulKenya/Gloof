@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "650621715346",
+    "firebase_url": "https://gloof-30c45.firebaseio.com",
+    "project_id": "gloof-30c45",
+    "storage_bucket": "gloof-30c45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650621715346:android:7cc28d212cbfb68e",
+        "android_client_info": {
+          "package_name": "com.gloof.gloof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650621715346-3luj95r6044hl6lt762vmtt1hv2kltg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gloof.gloof",
+            "certificate_hash": "20a9a7310582a580a179360951fe18d0384c93b1"
+          }
+        },
+        {
+          "client_id": "650621715346-0chg9q7065aqjq719i18uuaqovj4hlnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2mWeWUjlQFmBh7qbvVHUYG-utx-JOaNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650621715346-0chg9q7065aqjq719i18uuaqovj4hlnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
